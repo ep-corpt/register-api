@@ -1,0 +1,5 @@
+db: "host=127.0.0.1 port=54320 user=ear1 dbname=credential password=P@ssw0rd sslmode=disable"
+
+kafka:
+  host: 127.0.0.1:9092
+  topic: comp_info
